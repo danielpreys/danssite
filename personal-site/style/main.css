@@ -1,0 +1,15 @@
+
+
+.hobbies, .jobs, .contact-sources {
+	list-style-type: none;
+}
+
+li {
+	font-size: 30px;
+	text-align: center;
+}
+
+.pics {
+	text-align: center;
+
+}
