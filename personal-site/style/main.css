@@ -21,7 +21,8 @@ body, html {
 }
 
 .side-text {
-	font-size: 30px;
+	font-size: 16px;
+
 }
 
 .head-text {
@@ -48,20 +49,29 @@ body, html {
 	margin-top: 10px;
 }
 
-ul {
+.ul-direct {
 	list-style: none;
 	text-align: center;
 	padding-top: 20px;
 
 }
 
-li {
+.skillz {
+	
+	list-style: none;
+	margin-left:0px;
+	padding-left: 0px;
+}
+
+.directory {
 	display: inline;
 	vertical-align: center;
 	padding-right: 30px;
 	padding-right: 30px;
 	margin-top: 30px;
 }
+
+
 
 .menu {
     background-color: white;
@@ -84,6 +94,7 @@ li {
 
 .work {
 	text-align: left;
+
 
 }
 
