@@ -30,53 +30,24 @@ body, html {
 	padding-top:50px;
 }
 
-.sticky {
-	text-align: center;
-	padding-top: 50px;
-	margin: auto;
-	
-}
-
-
-.intro {
-	float: right;
-	color:white;
-	padding-top: 100px;
-	padding-right:125px;
-	margin: auto;
-	vertical-align: center;
-}
-
-
-.btn {
-	margin-top: 10px;
-}
 
 
 
 
 
-.directory {
-	display: inline;
-	vertical-align: center;
-	padding-right: 30px;
-	padding-right: 30px;
-	margin-top: 30px;
-}
 
 
 
-.menu {
-    background-color: white;
-    position:fixed;
-    top:0;
-    width:100%;
-    z-index:100;
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-    text-align:right;
-    padding-right: 10px;
-}
+
+
+
+
+
+
+
+
+
+
 
 
 
