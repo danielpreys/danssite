@@ -26,19 +26,25 @@ body, html {
 }
 
 .port {
-	background-color: #e6f7ff;
+	background: linear-gradient(#e6f7ff, #e6f7ff, #4dc6ff);;
 }
 
 .expertise {
 	padding-top: 20px;
 	text-align: center;
-}
+
+}	
 
 .headz {
 	text-align: center;
 	padding-top:5%;
 	padding-right: 1%;
-	padding-left: 1%;
+	padding-left: 5%;
+	padding-bottom: 10%;
+}
+
+.works {
+	margin-bottom: 20px;
 }
 
 .centered {
@@ -52,9 +58,30 @@ body, html {
 
 .head-image {
 	padding: 20px;
+	color: #4dc6ff;
+}
+
+.port-pic {
+	padding-bottom: 15px;
+	
+
+
+}
+
+img {
+	width: 362px;
+	height: 206px;
+	border-style: solid;
+	border-radius: 15px;
+
 }
 
 
+.descript {
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+}
 
 
 
