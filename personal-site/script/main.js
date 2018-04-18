@@ -45,6 +45,43 @@ function hover (){
 	function (){
 		$(this).css("color", "");
 });
+
+  $("#pic-two").hover(function(){
+	$(this).css("color", "blue");
+},	
+	function (){
+		$(this).css("color", "");
+});
+
+    $("#pic-three").hover(function(){
+	$(this).css("color", "blue");
+},	
+	function (){
+		$(this).css("color", "");
+});
+
+      $("#pic-four").hover(function(){
+	$(this).css("color", "blue");
+},	
+	function (){
+		$(this).css("color", "");
+});
+
+        $("#pic-five").hover(function(){
+	$(this).css("color", "blue");
+},	
+	function (){
+		$(this).css("color", "");
+});
+
+        $("#pic-six").hover(function(){
+	$(this).css("color", "blue");
+},	
+	function (){
+		$(this).css("color", "");
+});    
+
+
 	openWork();
 };
 
