@@ -83,6 +83,23 @@ img {
 	padding-top: 5%;
 }
 
+.sm-links, li {
+	list-style: none;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: white;
+	
+}
+
+.footer-list {
+	text-align: center;
+	background: #606060;
+	color: white;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
 
 
 
