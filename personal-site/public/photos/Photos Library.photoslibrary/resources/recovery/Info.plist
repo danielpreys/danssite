@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DatabaseMinorVersion</key>
+	<integer>1</integer>
+	<key>DatabaseVersion</key>
+	<integer>112</integer>
+	<key>HistoricalMarker</key>
+	<dict>
+		<key>LastHistoryRowId</key>
+		<integer>45</integer>
+		<key>LibraryBuildTag</key>
+		<string>2AE0D769-628F-46BD-B9CE-DD7822F48E22</string>
+		<key>LibrarySchemaVersion</key>
+		<integer>2622</integer>
+	</dict>
+	<key>LibrarySchemaVersion</key>
+	<integer>2622</integer>
+	<key>MetaSchemaVersion</key>
+	<integer>2</integer>
+	<key>SnapshotComplete</key>
+	<true/>
+	<key>SnapshotCompletedDate</key>
+	<date>2018-06-10T20:52:16Z</date>
+	<key>SnapshotTables</key>
+	<dict/>
+</dict>
+</plist>
