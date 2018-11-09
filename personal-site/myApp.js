@@ -15,7 +15,7 @@ var contactSchema = new mongoose.Schema({
 	lastName: String,
 	email: String,
 	phoneNumber: Number,
-	Message: String
+	messageArea: [String]
 });
 
 var User = mongoose.model("User", contactSchema);
